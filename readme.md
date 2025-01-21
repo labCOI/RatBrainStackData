@@ -42,7 +42,6 @@ For details, see the full license text here: [CC BY 4.0](https://creativecommons
 
 ## Citation
 The result are going to be submitted to IEEE transactions on Computational Imaging. Citation will be available after submission.
-```
 
 ## Contact
 For any questions or issues regarding this dataset, please contact:
