@@ -13,14 +13,7 @@ This repository contains the Mouse Hippocampal Brain Stack dataset, developed to
 │   │   ├── 111.jpg
 │   │   ├── 113.jpg
 │   │   ├── 121.jpg
-│   │   ├── 122.jpg
-│   │   ├── 123.jpg
-│   │   ├── 132.jpg
-│   │   ├── 133.jpg
-│   │   ├── 142.jpg
-│   │   ├── 143.jpg
-│   │   ├── 151.jpg
-│   │   ├── 153.jpg
+|   |   └──...
 └── README.md
 ```
 
