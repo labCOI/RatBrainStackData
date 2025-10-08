@@ -1,8 +1,8 @@
-# Mouse Hippocampal Brain Stack Dataset
-**A Dataset for Pixel-Wise, Cluster-Based Non-Rigid 3D Registration of Microscopic Images**
+# Rat Hippocampal Brain Stack Dataset
+**A Dataset for Pixel-Wise, Cluster-Based Non-Rigid 3D Registration of Microscopic Images (PiCNor)**
 
 ## Description
-This repository contains the Mouse Hippocampal Brain Stack dataset, developed to support research on 3D reconstruction and non-rigid registration methods. The dataset comprises of two main folders, Raw and Series. "Raw" contains all raw images while "Series" contains 10 high-resolution image pairs (1300 × 2000 pixels) of serial-section microscopic images, focusing on the hippocampal region of the mouse brain. It is designed to evaluate algorithms tackling challenges such as tissue distortions, staining inconsistencies, and complex spatial deformations.
+This repository contains the Rat Hippocampal Brain Stack dataset, developed to support research on 3D reconstruction and non-rigid registration methods. The dataset comprises of two main folders, Raw and Series. "Raw" contains all raw images while "Series" contains 10 high-resolution image pairs (1300 × 2000 pixels) of serial-section microscopic images, focusing on the hippocampal region of the rat brain. It is designed to evaluate algorithms tackling challenges such as tissue distortions, staining inconsistencies, and complex spatial deformations. Procedure for data acquisition for the hippocampal region of the male rat (weight: 160 gr) brain stack. The microscope employes is Olympus BX56 (objective lens 10x) and NewCAST software (Visiopharm, Hørsholm, Denmark), samples are stained using Nissl staining with 0.25% Giemsa's azur-eosin-methylene blue (Merck).
 
 ## Dataset Structure
 ```
